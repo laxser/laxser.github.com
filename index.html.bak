@@ -15,7 +15,7 @@
 
     <header>
       <div class="container">
-        <h1>Laxser（Qifan.Du） contact:"ZHVxaWZhbkBnbWFpbC5jb20=".decode("base64")=</h1>
+        <h1>Laxser（Qifan.Du） contact:"ZHVxaWZhbkBnbWFpbC5jb20=".decode("base64")</h1>
         <h2>关注高性能运维，可伸缩框架，大数据，大规模集群，分布式，SaaS，云计算</h2>
 
         <section id="downloads">
