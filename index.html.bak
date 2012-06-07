@@ -8,20 +8,20 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
 
-    <title>Laxser（Qifan.Du） by laxser</title>
+    <title>Laxser（Qifan.Du）的Github页面</title>
   </head>
 
   <body>
 
     <header>
       <div class="container">
-        <h1>Laxser（Qifan.Du）</h1>
+        <h1>Laxser（Qifan.Du） contact:"ZHVxaWZhbkBnbWFpbC5jb20=".decode("base64")=</h1>
         <h2>关注高性能运维，可伸缩框架，大数据，大规模集群，分布式，SaaS，云计算</h2>
 
         <section id="downloads">
-          <a href="https://github.com/laxser/TentacleX/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/laxser/TentacleX/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/laxser/TentacleX" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="https://github.com/laxser/laxser.github.com/zipball/master" class="btn">下载 .zip</a>
+          <a href="https://github.com/laxser/laxser.github.com/tarball/master" class="btn">下载 .tar.gz</a>
+          <a href="https://github.com/laxser/laxser.github.com" class="btn btn-github"><span class="icon"></span>Github上面拿我站点的源码</a>
         </section>
       </div>
     </header>
